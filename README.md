@@ -57,7 +57,8 @@ Developed by: S V SHADHANASHREE
 RegisterNumber:  23013434
 */
 ![OUTPUT](./Screenshot%202024-01-02%20094004.png)
-##RTL:
+
+## RTL:
 ![output](./Screenshot%202024-01-02%20094025.png)
 ## Truth table:
 ![Alt text](image-1.png)
